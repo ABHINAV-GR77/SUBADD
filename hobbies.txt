@@ -1,4 +1,4 @@
-football player
-gamer
-music listener
-anime watcher
+football player.
+gamer.
+music listener.
+anime watcher.
